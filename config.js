@@ -41,7 +41,7 @@ global.urlnya = "https://github.com/fourzylol"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '6285648600473'
+global.phn = '6285748600473'
 
 //============= Games ================//
 global.benar = '_*Benar*_✅'
